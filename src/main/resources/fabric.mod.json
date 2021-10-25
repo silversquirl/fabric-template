@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "fabric-template",
+	"version": "${version}",
+
+	"name": "Fabric Template",
+	"description": "This is a template mod to act as a starting point for new projects",
+	"authors": ["silversquirl"],
+	"contact": {
+		"sources": "https://github.com/silversquirl/fabric-example-mod"
+	},
+	"license": "MIT",
+
+	"environment": "*",
+	"entrypoints": {
+		"main": []
+	},
+	"mixins": ["mixins.json"],
+
+	"depends": {
+		"fabricloader": ">=0.11.3",
+		"fabric": "*",
+		"minecraft": "1.17.x",
+		"java": ">=16"
+	}
+}
