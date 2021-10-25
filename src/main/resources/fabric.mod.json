@@ -7,7 +7,7 @@
 	"description": "This is a template mod to act as a starting point for new projects",
 	"authors": ["silversquirl"],
 	"contact": {
-		"sources": "https://github.com/silversquirl/fabric-example-mod"
+		"sources": "https://github.com/silversquirl/fabric-template"
 	},
 	"license": "MIT",
 
